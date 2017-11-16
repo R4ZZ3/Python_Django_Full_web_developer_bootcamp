@@ -1,0 +1,27 @@
+#heading_one{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+table{
+  align: center;
+}
+td{
+height: 250px;
+padding: 70px;
+border: 10px solid white;
+}
+#one{
+background-color: #247BA0;
+}
+#two{
+background-color: #70C1B3;
+}
+#three{
+background-color: #B2DBBF;
+}
+#four{
+background-color: #F3FFBD;
+}
+#five{
+background-color: #FF1654;
+}

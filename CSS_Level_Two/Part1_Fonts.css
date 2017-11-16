@@ -1,0 +1,31 @@
+/*Fonts on Windows:
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows
+Fonts on Macs:
+https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOSfon
+General Font Information:
+http://www.cssfontstack.com/*/
+
+/* Text Font and Size*/
+h1{
+font-family: "Arial";
+}
+
+p {
+   font-family: 'PinyonScriptRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+
+
+/*
+1em = 16px
+2em = 32px*/
+
+
+/*If you want to use your own downloaded custom fonts:*/
+
+/*@font-face{
+  font-family: your_font_name;
+  src: url(path/to/woff_file.woff);
+}*/

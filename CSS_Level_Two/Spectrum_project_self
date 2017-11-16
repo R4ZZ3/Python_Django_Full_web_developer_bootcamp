@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>This is my Spectrum Project</title>
+    <link rel="stylesheet" href="Spectrum_project_self.css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  </head>
+  <body>
+    <h1 id="heading_one">Inspired by spectrum V By the Artist Eellsworth Kelly</h1>
+<table align="center">
+  <th></th>
+  <tr>
+    <td id="one">Moi Pena</td>
+    <td id="two">s</td>
+    <td id="three">s</td>
+    <td id="four">s</td>
+    <td id="five">s</td>
+  </tr>
+</table>
+  </body>
+</html>
